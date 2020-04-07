@@ -9,7 +9,7 @@ const Header = () => {
     <div class='Header-nav'>
       <a href='#/About/'>About</a>
     </div>
-  </div>;
+  </div>
 `;
   return view;
 };
