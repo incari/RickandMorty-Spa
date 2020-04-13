@@ -1,9 +1,9 @@
 {
   "name": "rickandmorty",
+  "homepage": "https://incari.github.io/RickandMorty-Spa",
   "version": "1.0.0",
   "description": "SPA in JS Vanilla",
   "main": "index.js",
-  "homepage":"https://incari.github.io/RickandMorty-Spa"
   "scripts": {
     "start": "webpack-dev-server --mode development",
     "build": "webpack --mode production"
